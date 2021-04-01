@@ -7,7 +7,6 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My name is an anagram of "I Play Data"
 
-<p align="center">
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -28,7 +27,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-</p>
+
 
   <p align="center">
      <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
