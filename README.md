@@ -11,7 +11,6 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
@@ -26,8 +25,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
 
   <p align="center">
      <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
