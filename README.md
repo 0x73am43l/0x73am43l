@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Python and Django
 - 💬 Ask me about Linux, Chess and Django
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: My name is an anagram of "I Play Data"
 
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
