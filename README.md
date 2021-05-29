@@ -31,9 +31,9 @@
      <i>You miss 100% of the shots you don't take.</i>
      <br>
   <br>
-  <a target="_blank" href="https://www.linkedin.com/in/the"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:the@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/farshad-pr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:0x73am43l@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a>
   <a target="_blank" href="https://medium.com/@0x73am43l"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-  <a target="_blank" href="https://twitter.com/0x73am43l"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+  <a target="_blank" href="https://twitter.com/0x73am43l"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twihttps://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
   <br>
   </p>
