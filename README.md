@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as a Software Developer in Tehran, Iran
 - 🌱 I’m currently learning Python and Django
 - 💬 Ask me about Linux, Chess and Django
+- 👽 Interested in solving real problems using TECH ;)
 - 😄 Pronouns: He / Him
 
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
