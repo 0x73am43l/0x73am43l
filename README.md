@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently working as a Software Developer in Tehran, Iran
-- 🌱 I’m currently learning Django
-- 💬 Ask me about Linux, Python
 - 👽 Interested in solving real problems using TECH ;)
 - 😄 Pronouns: He / Him
 
