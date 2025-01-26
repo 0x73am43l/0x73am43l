@@ -22,9 +22,4 @@ Hey 🖐
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  <p align="center">
-     <h5>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</h5>
-     <br>
-     <h5>You miss 100% of the shots you don't take.</h5>
-  <br>
-  </p>
+  <p><i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i></p>
