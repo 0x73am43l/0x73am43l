@@ -23,14 +23,8 @@ Hey 🖐
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
   <p align="center">
-     <h4>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</h4>
+     <h5>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</h5>
      <br>
-     <h4>You miss 100% of the shots you don't take.</h4>
-     <br>
-  <br>
-  <a target="_blank" href="https://www.linkedin.com/in/farshad-pr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:0x73am43l@protonmail.ch"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a>
-  <a target="_blank" href="https://medium.com/@0x73am43l"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-  <a target="_blank" href="https://twitter.com/0x73am43l"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twihttps://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+     <h5>You miss 100% of the shots you don't take.</h5>
   <br>
   </p>
